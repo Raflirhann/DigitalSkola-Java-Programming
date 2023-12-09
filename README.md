@@ -1,2 +1,0 @@
-# DigitalSkola-Java-Programming
-JavaFundamental
